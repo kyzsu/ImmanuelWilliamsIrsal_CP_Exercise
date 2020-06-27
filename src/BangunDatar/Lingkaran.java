@@ -1,6 +1,6 @@
 package BangunDatar;
 
-public class Lingkaran extends bangunDatar{
+public class Lingkaran extends BangunDatar {
     private final double jarijari;
 
     public Lingkaran(double jarijari) {

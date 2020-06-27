@@ -1,6 +1,6 @@
 package BangunDatar;
 
-public class Persegi extends bangunDatar{
+public class Persegi extends BangunDatar {
     private final double sisi;
 
     public Persegi(double sisi) {

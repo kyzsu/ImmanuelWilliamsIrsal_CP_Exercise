@@ -1,6 +1,6 @@
 package BangunDatar;
 
-public class Segitiga extends bangunDatar{
+public class Segitiga extends BangunDatar {
     private final double alas;
     private final double tinggi;
 

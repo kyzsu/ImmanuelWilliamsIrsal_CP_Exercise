@@ -1,6 +1,6 @@
 package BangunDatar;
 
-public class LayangLayang extends bangunDatar{
+public class LayangLayang extends BangunDatar {
     private final double diagonal1;
     private final double diagonal2;
 

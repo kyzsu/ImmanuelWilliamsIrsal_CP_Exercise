@@ -1,6 +1,6 @@
 package BangunDatar;
 
-public class persegiPanjang extends bangunDatar {
+public class persegiPanjang extends BangunDatar {
     private final double panjang;
     private final double lebar;
 

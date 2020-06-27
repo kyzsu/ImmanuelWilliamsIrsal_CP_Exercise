@@ -1,6 +1,6 @@
 package BangunDatar;
 
-abstract class bangunDatar {
+abstract class BangunDatar {
     protected abstract double getLuas();
     protected abstract String getNama();
 //    protected abstract double getKeliling();
